@@ -8,23 +8,23 @@
 //     console.log(handleSum('beka'))
 
 // function  vesna (day){
-//     if (day === 'february'){
-//         return 'on february only 28 day'
+//     if (day <= 28){
+//         return 'today is february'
 //     }
 //  else {
 //      return `your day is 'day' of another month`
 //  }
 // }
-// console.log(vesna ('february'))
+// console.log(vesna (28))
 
 // function number (num){
-//     if (num === '50'){
+//     if (num === 50){
 //         return 'equals of 50'
 //     } else{
 //         return  ` ${num} is not correct`
 //     }
 // }
-// console.log(number("50"))
+// console.log(number(45))
 
 
 
